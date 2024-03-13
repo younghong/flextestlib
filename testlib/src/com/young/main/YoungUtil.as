@@ -10,5 +10,9 @@ package com.young.main
 		{
 			return a+b;
 		}
+		public function console():void
+		{
+			trace("hello");
+		}
 	}
 }
